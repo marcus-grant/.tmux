@@ -37,6 +37,16 @@ Development][bhtmux2] by [@bphogan].
 [bhtmux2]: https://pragprog.com/book/bhtmux2/tmux-2
 [@bphogan]: https://twitter.com/bphogan
 
+Changes for this Fork
+---------------------
+
+### Keymap Changes
+
+To-Do's for this Fork
+---------------------
+- [ ] Should primary and secondary prefix keys be swapped? 
+
+
 Troubleshooting
 ---------------
 
